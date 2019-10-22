@@ -1,0 +1,1 @@
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa.UWP\App02_Tarefa.UWP.csproj;x86

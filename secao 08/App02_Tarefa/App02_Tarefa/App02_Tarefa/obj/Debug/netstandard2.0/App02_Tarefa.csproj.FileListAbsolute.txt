@@ -1,0 +1,13 @@
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.deps.json
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.dll
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\bin\Debug\netstandard2.0\App02_Tarefa.pdb
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.csprojAssemblyReference.cache
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\Telas\Cadastro.xaml.g.cs
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\Telas\Inicio.xaml.g.cs
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.csproj.CoreCompileInputs.cache
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.AssemblyInfoInputs.cache
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.AssemblyInfo.cs
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.dll
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\App02_Tarefa.pdb
+C:\GitHub\XamarinForms\secao 08\App02_Tarefa\App02_Tarefa\App02_Tarefa\obj\Debug\netstandard2.0\XamlC.stamp
